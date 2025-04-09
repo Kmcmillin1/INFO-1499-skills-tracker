@@ -40,7 +40,7 @@ tracker = {
             "link": "https://github.com/yourusername/todo-app"
         },
         {
-            "title": "Weather Dashboard",
+            "title": "Weather  Dashboard",
             "tech": "Python, Flask, API, JavaScript, HTML, CSS",
             "link": "https://github.com/yourusername/weather-dashboard"
         },
