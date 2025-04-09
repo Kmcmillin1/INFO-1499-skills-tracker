@@ -11,7 +11,7 @@ app = Flask(__name__)
 # Hardcoded Data for the App
 # -----------------------------
 
-
+             
 
 # The 'tracker' dictionary contains two main parts:
 # 1. A list of skills
