@@ -18,7 +18,7 @@ app = Flask(__name__)
 # 2. A list of projects, each with title, technologies used, and a link
 tracker = {
     # List of skills you might know or want to showcase
-    "skills": [
+  #  "skills": [
         "Python",
         "Flask",
         "SQL",
